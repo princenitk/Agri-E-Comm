@@ -2,7 +2,8 @@ import React, { useContext, useEffect, useState } from "react";
 import { SidebarContext } from "../contexts/SidebarContext";
 import { CartContext } from "../contexts/CartContext";
 import { Link } from "react-router-dom";
-import Logo from "../img/logo.svg";
+// import Logo from "../img/logo.svg";
+import Logo from "../img/agro-mart-1.svg";
 import { BsBag } from "react-icons/bs";
 
 const Header = () => {
